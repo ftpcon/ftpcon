@@ -1,2 +1,3 @@
-# ftpcon
-ftpcon - an antifascist hacker conference
+# ftp://con
+
+an antifascist hacker conference
