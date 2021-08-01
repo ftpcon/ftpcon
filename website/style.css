@@ -68,7 +68,7 @@ select {
   html:focus-within {
    scroll-behavior: auto;
   }
-  
+
   *,
   *::before,
   *::after {
@@ -94,6 +94,7 @@ body {
   background-color: #111;
   display: flex;
   justify-content: center;
+  padding-bottom: 16px;
 }
 
 #center-column {
@@ -112,6 +113,11 @@ section {
   margin-top: 32px;
 }
 
+footer {
+  margin-top: 32px;
+  font-size: 8px;
+}
+
 dt {
   font-weight: bold;
 }
@@ -119,4 +125,3 @@ dt {
 dd {
   margin-top: 0;
 }
-
