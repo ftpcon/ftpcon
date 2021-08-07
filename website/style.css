@@ -97,8 +97,15 @@ body {
   padding-bottom: 16px;
 }
 
+a:link {
+  color: #eee;
+}
+
 #center-column {
-  width: 512px;
+  /* width: 512px; */
+  width: 100%;
+  padding: 0px 20px 0px 20px;
+}
 }
 
 header *, section * {
@@ -124,4 +131,21 @@ dt {
 
 dd {
   margin-top: 0;
+}
+
+h1 {
+  color: #d40000;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+.schedule_timeslot {
+  color: #a40000;
+  padding-left: 16px;
+}
+
+.timeslot_info {
+  padding-left: 16px;
 }
