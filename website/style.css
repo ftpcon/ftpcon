@@ -103,9 +103,10 @@ a:link {
 
 #center-column {
   /* width: 512px; */
+  max-width: 512px;
   width: 100%;
-  padding: 0px 20px 0px 20px;
-}
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 header *, section * {
