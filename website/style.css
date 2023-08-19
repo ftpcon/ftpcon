@@ -152,11 +152,11 @@ h2 {
 }
 
 h3.schedule_timeslot {
-  margin-top: 24px;
+  margin-top: 2em;
   margin-bottom: 0px;
 }
 
 p.timeslot_info {
   margin-top: 0px;
-  line-height: 8px;
+  line-height: 2em;
 }
