@@ -150,3 +150,13 @@ h2 {
 .timeslot_info {
   padding-left: 16px;
 }
+
+h3.schedule_timeslot {
+  margin-top: 24px;
+  margin-bottom: 0px;
+}
+
+p.timeslot_info {
+  margin-top: 0px;
+  line-height: 8px;
+}
